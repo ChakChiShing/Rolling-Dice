@@ -2,17 +2,19 @@
 My first Python game project using pygame
 
 Started on 13/5/2021
+finished on 14/5/2021
 
 Completed list:
 13/5/2021
 * dynamically load dice image
 * clickable roll text button
-* display player`s current money
-* random output integer 
+* display player`s current point
+* randomly output integer 
 
-Todo list:
+14/5/2021
 - Biding text button (big and small)
-- input text button for user to enter amout
+- allow single selection of big / small button 
+- displaying and calculating users` point
 
 You can git clone the project to try it 
 
