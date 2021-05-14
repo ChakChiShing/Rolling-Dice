@@ -20,5 +20,5 @@ You can git clone the project to try it
 
 make sure you have python3 installed on your computer
 
-*please change the path of dice images'
+*please change the path of dice images*
 ![image](https://user-images.githubusercontent.com/62586452/118305067-11f55500-b51a-11eb-9cd9-e1262de1823d.png)
